@@ -1,0 +1,50 @@
+Intel:Xeon L5520 @ 2.27GHz :4387
+Intel:Core i5-4300M @ 2.60GHz :4379
+Intel:Core i5-3360M @ 2.80GHz :4363
+Intel:Core i5-4308U @ 2.80GHz :4358
+Intel:Core i3-4160T @ 3.10GHz :4355
+Intel:Xeon X3370 @ 3.00GHz :4353
+Intel:Xeon L5530 @ 2.40GHz :4351
+Intel:Core i5-6260U @ 1.80GHz :4350
+Intel:Core i5-6300U @ 2.40GHz :4349
+Intel:Core i5-5257U @ 2.70GHz :4348
+Intel:Core i3-3225 @ 3.30GHz :4332
+AMD:A8-5600K APU :4327
+Intel:Xeon X5460 @ 3.16GHz:4440
+Intel:Core i5-4288U @ 2.60GHz:4428
+AMD:Phenom II X4 B70 :4426
+Intel:Core i3-3250 @ 3.50GHz :4424
+Intel:Xeon L5630 @ 2.13GHz :4420
+AMD:Opteron 4184 :4418
+AMD:Phenom II X4 965 :4231
+AMD:PRO A12-9800B :4230
+AMD:Athlon X4 750K Quad Core :4228
+Intel:Core i5-3340M @ 2.70GHz :4219
+AMD:Athlon II X4 559 :4213
+Intel:Pentium G4520 @ 3.60GHz :4212
+Intel:Core i3-3220 @ 3.30GHz :4211
+AMD:Phenom II X4 B99 :4206
+AMD:FX-4200 Quad-Core :4205
+Intel:Core i5-4210M @ 2.60GHz :4203
+Intel:Core i7-5650U @ 2.20GHz :4203
+Intel:Core i7-6500U @ 2.50GHz :4413
+Intel:Core i5-4200H @ 2.80GHz :4405
+AMD:Phenom II X4 970 :4391
+AMD:A8-6500 APU :4388
+Intel:Core i3-2140 @ 3.50GHz :4325
+Intel:Core i5-4278U @ 2.60GHz :4314
+Intel:Core i3-3245 @ 3.40GHz :4304
+Intel:Core i5-3380M @ 2.90GHz :4299
+Intel:Core i3-6100TE @ 2.70GHz :4296
+Intel:Xeon E5472 @ 3.00GHz :4295
+Intel:Core i3-3240 @ 3.40GHz :4294
+Intel:Core i7-4558U @ 2.80GHz :4292
+Intel:Core i7-5600U @ 2.60GHz :4285
+Intel:Core i5-2390T @ 2.70GHz :4275
+Intel:Xeon X5698 @ 4.40GHz :4272
+Intel:Xeon E5450 @ 3.00GHz :4265
+AMD:PRO A12-8800B :4262:NA
+Intel:Core2 Quad Q9650 @ 3.00GHz :4254
+Intel:Core2 Extreme X9650 @ 3.00GHz :4249
+Intel:Core i7-5550U @ 2.00GHz :4246
+Intel:Core i7-3687U @ 2.10GHz :4243
